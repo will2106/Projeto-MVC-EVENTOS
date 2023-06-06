@@ -1,0 +1,15 @@
+C:\Users\32784630803\Desktop\POO\MVC\ProjetoMVCEvento\bin\Debug\net7.0\ProjetoMVCEvento.exe
+C:\Users\32784630803\Desktop\POO\MVC\ProjetoMVCEvento\bin\Debug\net7.0\ProjetoMVCEvento.deps.json
+C:\Users\32784630803\Desktop\POO\MVC\ProjetoMVCEvento\bin\Debug\net7.0\ProjetoMVCEvento.runtimeconfig.json
+C:\Users\32784630803\Desktop\POO\MVC\ProjetoMVCEvento\bin\Debug\net7.0\ProjetoMVCEvento.dll
+C:\Users\32784630803\Desktop\POO\MVC\ProjetoMVCEvento\bin\Debug\net7.0\ProjetoMVCEvento.pdb
+C:\Users\32784630803\Desktop\POO\MVC\ProjetoMVCEvento\obj\Debug\net7.0\ProjetoMVCEvento.csproj.AssemblyReference.cache
+C:\Users\32784630803\Desktop\POO\MVC\ProjetoMVCEvento\obj\Debug\net7.0\ProjetoMVCEvento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32784630803\Desktop\POO\MVC\ProjetoMVCEvento\obj\Debug\net7.0\ProjetoMVCEvento.AssemblyInfoInputs.cache
+C:\Users\32784630803\Desktop\POO\MVC\ProjetoMVCEvento\obj\Debug\net7.0\ProjetoMVCEvento.AssemblyInfo.cs
+C:\Users\32784630803\Desktop\POO\MVC\ProjetoMVCEvento\obj\Debug\net7.0\ProjetoMVCEvento.csproj.CoreCompileInputs.cache
+C:\Users\32784630803\Desktop\POO\MVC\ProjetoMVCEvento\obj\Debug\net7.0\ProjetoMVCEvento.dll
+C:\Users\32784630803\Desktop\POO\MVC\ProjetoMVCEvento\obj\Debug\net7.0\refint\ProjetoMVCEvento.dll
+C:\Users\32784630803\Desktop\POO\MVC\ProjetoMVCEvento\obj\Debug\net7.0\ProjetoMVCEvento.pdb
+C:\Users\32784630803\Desktop\POO\MVC\ProjetoMVCEvento\obj\Debug\net7.0\ProjetoMVCEvento.genruntimeconfig.cache
+C:\Users\32784630803\Desktop\POO\MVC\ProjetoMVCEvento\obj\Debug\net7.0\ref\ProjetoMVCEvento.dll
